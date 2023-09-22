@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP715SQ33T2G
+D ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5
+K
+F http://www.onsemi.com/pub/Collateral/NCP715-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NCP715SQ33T2G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2018-07-06 12:46:35
+Downloaded=2023-09-22 14:56:10
+3D=Y

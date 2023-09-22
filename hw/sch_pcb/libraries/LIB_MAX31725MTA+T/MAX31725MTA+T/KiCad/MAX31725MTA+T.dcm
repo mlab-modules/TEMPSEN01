@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX31725MTA+T
+D MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins
+K
+F https://componentsearchengine.com/Datasheets/2/MAX31725MTA+T.pdf
+$ENDCMP
+#
+#End Doc Library

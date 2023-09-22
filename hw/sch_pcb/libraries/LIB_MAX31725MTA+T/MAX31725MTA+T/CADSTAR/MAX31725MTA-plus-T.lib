@@ -1,0 +1,16 @@
+.MAX31725MTA-plus-T :1 ;MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins
+SON65P300X300X80-9N
+*STM IC
+*NGS
+*PLB 1="SDA" 2="SCL" 3="OS" 4="GND" 5="A2" 6="A1" 7="A0" 8="VDD" 9="EP"
+*MXP 9
+*DFN MAX31725MTA-plus-T
+~!Mouser Part Number (700-MAX31725MTA+T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX31725MTA%2bT?qs=g0UVtq9Ld0PiC3hwpsy9Mw%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX31725MTA+T)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/MAX31725MTA+T.pdf)
+~!Height (0.8mm)
+~!3D_Model (MAX31725MTA+T)
+MAX31725MTA-plus-T
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NCP715SQ33T2G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NCP715SQ33T2G" (!) = "", "SOT65P210X110-5N", "SOT23 (5-Pin)", "863-NCP715SQ33T2G", "https://www.mouser.co.uk/ProductDetail/onsemi/NCP715SQ33T2G?qs=dbuNSGnowt2ffOIPXxfL9g%3D%3D", "ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5", "http://www.onsemi.com/pub/Collateral/NCP715-D.PDF", "1.1 mm"
+END_PART
+
+END.

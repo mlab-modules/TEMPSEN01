@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX31725MTA+T
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2022-01-05 09:20:09
+Downloaded=2023-09-22 14:18:17
+3D=Y

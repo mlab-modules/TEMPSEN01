@@ -1,0 +1,16 @@
+.NCP715SQ33T2G :1 ;ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5
+SOT65P210X110-5N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="GND" 3="NC_2" 4="IN" 5="OUT"
+*MXP 5
+*DFN NCP715SQ33T2G
+~!Mouser Part Number (863-NCP715SQ33T2G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NCP715SQ33T2G?qs=dbuNSGnowt2ffOIPXxfL9g%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NCP715SQ33T2G)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/NCP715-D.PDF)
+~!Height (1.1mm)
+~!3D_Model (NCP715SQ33T2G)
+NCP715SQ33T2G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

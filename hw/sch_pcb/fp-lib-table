@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_MAX31725MTA+T/MAX31725MTA+T/KiCad")(options "")(descr ""))
+  (lib (name "ncp")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_NCP715SQ33T2G/NCP715SQ33T2G/KiCad")(options "")(descr ""))
+)

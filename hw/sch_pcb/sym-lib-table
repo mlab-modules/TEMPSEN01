@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX31725MTA+T")(type "Legacy")(uri "${KIPRJMOD}/libraries/LIB_MAX31725MTA+T/MAX31725MTA+T/KiCad/MAX31725MTA+T.lib")(options "")(descr ""))
+  (lib (name "NCP715SQ33T2G")(type "Legacy")(uri "${KIPRJMOD}/libraries/LIB_NCP715SQ33T2G/NCP715SQ33T2G/KiCad/NCP715SQ33T2G.lib")(options "")(descr ""))
+)
