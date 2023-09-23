@@ -6,8 +6,17 @@ github_branches:
 github_repo: TEMPSEN01
 github_url: https://github.com/mlab-modules/TEMPSEN01
 homepage: false
-images: []
+images:
+- doc/gen/img/TEMPSEN01-top.png
+- doc/gen/img/TEMPSEN01-bottom.png
+- doc/gen/TEMPSEN01-schematic.svg
+- doc/gen/img/TEMPSEN01-bottom.svg
+- doc/gen/img/TEMPSEN01-top.svg
+- hw/cam_profi/docs/TEMPSEN01A-assembly_page_01.svg
+- hw/cam_profi/docs/TEMPSEN01A-assembly_page_02.svg
 issues: 2
 mark: 50
+mod_ibom: hw/cam_profi/ibom/TEMPSEN01-ibom.html
+mod_scheme: doc/gen/TEMPSEN01-schematic.pdf
 tags: []
 title: TEMPSEN01
