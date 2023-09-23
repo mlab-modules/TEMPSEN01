@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/TEMPSEN01.kicad_sch</source>
+    <date>Sat Sep 23 00:41:04 2023</date>
+    <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TEMPSEN01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bbe</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue" description=""/>
+      <property name="UST_id" value=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbe"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>233441f7-528b-415f-99cf-f1af077947d0</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bbe</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue" description=""/>
+      <property name="UST_id" value=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbe"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebf4ca67-4b68-4d43-bd87-0c27ebebdbcf</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BZV55C5V6</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>BZT52H-C3V6,115</datasheet>
+      <fields>
+        <field name="UST_ID">650b35ab462c6d9e720543d0</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="D_ZENER-MLAB_D" description=""/>
+      <property name="UST_ID" value="650b35ab462c6d9e720543d0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>835cc3a1-038a-478f-8cae-33a30d9ca4e4</tstamps>
+    </comp>
+    <comp ref="FID1">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_description" value="Fiducial Marker"/>
+      <property name="ki_keywords" value="fiducial marker"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04a6c2fc-1ba1-47a1-bf02-a5c2305fd205</tstamps>
+    </comp>
+    <comp ref="FID2">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_description" value="Fiducial Marker"/>
+      <property name="ki_keywords" value="fiducial marker"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3e42ce9-3b89-4d1d-b485-25de100c0a58</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>MAX31725MTA+T</value>
+      <footprint>KiCad:SON65P300X300X80-9N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/MAX31725MTA+T.pdf</datasheet>
+      <fields>
+        <field name="Description">MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins</field>
+        <field name="Height">0.8</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX31725MTA+T</field>
+        <field name="Mouser Part Number">700-MAX31725MTA+T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX31725MTA%2bT?qs=g0UVtq9Ld0PiC3hwpsy9Mw%3D%3D</field>
+      </fields>
+      <libsource lib="MAX31725MTA+T" part="MAX31725MTA+T" description="MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins"/>
+      <property name="Description" value="MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins"/>
+      <property name="Height" value="0.8"/>
+      <property name="Mouser Part Number" value="700-MAX31725MTA+T"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX31725MTA%2bT?qs=g0UVtq9Ld0PiC3hwpsy9Mw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX31725MTA+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9833422b-2a75-4007-87d2-4f81cc264163</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>NCP715SQ33T2G</value>
+      <footprint>ncp:SOT65P210X110-5N</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/NCP715-D.PDF</datasheet>
+      <fields>
+        <field name="Description">ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP715SQ33T2G</field>
+        <field name="Mouser Part Number">863-NCP715SQ33T2G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP715SQ33T2G?qs=dbuNSGnowt2ffOIPXxfL9g%3D%3D</field>
+      </fields>
+      <libsource lib="NCP715SQ33T2G" part="NCP715SQ33T2G" description="ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5"/>
+      <property name="Description" value="ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="863-NCP715SQ33T2G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/NCP715SQ33T2G?qs=dbuNSGnowt2ffOIPXxfL9g%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="NCP715SQ33T2G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94a6e0b0-3a3b-40fe-bd29-16ebb0952a44</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SM04B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal</footprint>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM04B-GHS-TB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f73747b5-d348-4288-8a71-a4f3a2f1e1e7</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SM04B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal</footprint>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM04B-GHS-TB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcfcc1d9-138a-4888-bb8e-4adbf52b705c</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 3-pole, open"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e572b3b-15b3-42d0-bf95-0ffcf2d9d37b</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 3-pole, open"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3bab3ee-2989-4c9a-8a6a-25f9a2d3e48d</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 3-pole, open"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89c3d9c1-dd67-46cc-8e31-ccf30e68298c</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 3-pole, open"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74958299-5b6c-48c1-931f-0f78883df297</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>468e468a-2d6e-4cf1-b4f6-c20dc54d1f6f</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b792e321-e877-40dc-9b64-1c147ade5f3c</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0520961-4e3c-4021-9b52-2d0fadc9d42e</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_keywords" value="HOLE, X, M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68d0f42f-b4c2-464a-b869-3b28633a500b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6eb0a270-44e5-49d9-ab98-75da06b6c9b4</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d465c729-a11b-48b6-bd88-15396682b19e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TEMPSEN01.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>819e82b8-13c9-4322-baff-992546272ef9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small-Device-ISM02A-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM02A-rescue" part="D_ZENER-MLAB_D">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ZENER-MLAB_D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Open">
+      <description>Solder Jumper, 3-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MAX31725MTA+T" part="MAX31725MTA+T">
+      <description>MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins</description>
+      <docs>https://componentsearchengine.com/Datasheets/2/MAX31725MTA+T.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MAX31725MTA+T</field>
+        <field name="Footprint">SON65P300X300X80-9N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/2/MAX31725MTA+T.pdf</field>
+        <field name="Description">MAXIM INTEGRATED PRODUCTS - MAX31725MTA+T - Temperature Sensor IC, Digital, +/- 0.7C, -55 C, 150 C, TDFN, 8 Pins</field>
+        <field name="Height">0.8</field>
+        <field name="Mouser Part Number">700-MAX31725MTA+T</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX31725MTA%2bT?qs=g0UVtq9Ld0PiC3hwpsy9Mw%3D%3D</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX31725MTA+T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="passive"/>
+        <pin num="2" name="SCL" type="passive"/>
+        <pin num="3" name="OS" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="A2" type="passive"/>
+        <pin num="6" name="A1" type="passive"/>
+        <pin num="7" name="A0" type="passive"/>
+        <pin num="8" name="VDD" type="passive"/>
+        <pin num="9" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_CONNECTORS_JST" part="SM04B-GHS-TB">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM04B-GHS-TB</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="MP" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_MECHANICAL" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Fiducial">
+      <description>Fiducial Marker</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Fiducial*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="NCP715SQ33T2G" part="NCP715SQ33T2G">
+      <description>ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5</description>
+      <docs>http://www.onsemi.com/pub/Collateral/NCP715-D.PDF</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">NCP715SQ33T2G</field>
+        <field name="Footprint">SOT65P210X110-5N</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/NCP715-D.PDF</field>
+        <field name="Description">ON SEMICONDUCTOR - NCP715SQ33T2G - LDO, FIXED, 3.3V, 0.05A, SC-70-5</field>
+        <field name="Height">1.1</field>
+        <field name="Mouser Part Number">863-NCP715SQ33T2G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/NCP715SQ33T2G?qs=dbuNSGnowt2ffOIPXxfL9g%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">NCP715SQ33T2G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC_1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="NC_2" type="passive"/>
+        <pin num="4" name="IN" type="passive"/>
+        <pin num="5" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MAX31725MTA+T">
+      <uri>/github/workspace/hw/sch_pcb/libraries/LIB_MAX31725MTA+T/MAX31725MTA+T/KiCad/MAX31725MTA+T.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="NCP715SQ33T2G">
+      <uri>/github/workspace/hw/sch_pcb/libraries/LIB_NCP715SQ33T2G/NCP715SQ33T2G/KiCad/NCP715SQ33T2G.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VDD" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="OUT" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/A0">
+      <node ref="IC1" pin="7" pinfunction="A0" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="3" name="/A1">
+      <node ref="IC1" pin="6" pinfunction="A1" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="4" name="/A2">
+      <node ref="IC1" pin="5" pinfunction="A2" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="5" name="/OS">
+      <node ref="IC1" pin="3" pinfunction="OS" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/SCL">
+      <node ref="IC1" pin="2" pinfunction="SCL" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/SDA">
+      <node ref="IC1" pin="1" pinfunction="SDA" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="J1" pin="MP" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="J2" pin="MP" pintype="input"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP4" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+    </net>
+    <net code="9" name="VDD">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="IN" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J2" pin="1" pintype="input"/>
+    </net>
+    <net code="10" name="unconnected-(IC2-NC_1-Pad1)">
+      <node ref="IC2" pin="1" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="11" name="unconnected-(IC2-NC_2-Pad3)">
+      <node ref="IC2" pin="3" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C4","1uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",106.6800,-63.6309,-90.0000,top
+"C5","1uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",106.6546,-67.5093,90.0000,top
+"D1","BZV55C5V6","D_SOD-123F",110.1060,-62.9920,0.0000,top
+"FID1","Fiducial","Fiducial_1mm_Mask2mm",99.3140,-71.1200,0.0000,top
+"FID2","Fiducial","Fiducial_1mm_Mask2mm",124.2060,-71.1200,0.0000,top
+"IC1","MAX31725MTA+T","SON65P300X300X80-9N",111.7600,-71.1200,180.0000,top
+"IC2","NCP715SQ33T2G","SOT65P210X110-5N",110.4900,-65.9280,180.0000,top
+"R1","4k7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",116.7638,-69.1388,180.0000,top
+"R2","4k7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",116.7638,-71.1200,180.0000,top
+"R3","4k7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",116.7478,-73.1012,180.0000,top
