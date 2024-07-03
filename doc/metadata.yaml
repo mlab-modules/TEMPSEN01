@@ -16,6 +16,7 @@ images:
 - hw/cam_profi/docs/TEMPSEN01A-assembly_page_02.svg
 issues: 2
 mark: 50
+replaced: LTS01
 mod_ibom: hw/cam_profi/ibom/TEMPSEN01-ibom.html
 mod_scheme: doc/gen/TEMPSEN01-schematic.pdf
 tags: []
